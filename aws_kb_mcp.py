@@ -4,7 +4,7 @@ import psutil
 import socket
 import subprocess
 
-mcp = FastMCP("TimeMCP")
+mcp = FastMCP("AwsKbMCP")
 
 
 @mcp.tool()
